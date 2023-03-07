@@ -1,0 +1,341 @@
+PREFIX bot: <https://w3id.org/bot#>
+prefix inst: <https://example.com/inst#> 
+prefix brick: <https://brickschema.org/schema/Brick#> 
+
+insert data {
+#Stueetage
+
+  #Personalerum-P.0.08 -> Space-M.1.38
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee60b bot:isPartOf inst:3075321 . 
+inst:3075321 a brick:Zone .
+
+ #Pers.forb-P.0.09 -> Space-M.1.39
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee60c bot:isPartOf inst:3075430 . 
+inst:3075430 a brick:Zone .
+
+#Pers.forb-P.0.10 -> Space-M.1.40
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee60d bot:isPartOf inst:3075433 . 
+inst:3075433 a brick:Zone .
+
+#Vindfang-P.0.21 -> Space-M.1.42
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee60f bot:isPartOf inst:3075436 .
+inst:3075436 a brick:Zone .
+
+#Garderobe-P.0.22 -> Space-M.1.43
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee610 bot:isPartOf inst:3075506 .
+inst:3075506 a brick:Zone .
+
+#Pers.forb-P.0.11 -> Space-M.1.41
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee60e bot:isPartOf inst:3075439 .
+inst:3075439 a brick:Zone .
+
+#Maskinrum-V.0.17 -> Space-M.1.37
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee60a bot:isPartOf inst:3075442 .
+inst:3075442 a brick:Zone .
+
+#Håndværk-V.0.18 -> Space-M.1.36
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee609 bot:isPartOf inst:3075419 .
+inst:3075419 a brick:Zone .
+
+#SFO-værksted-I.0.02 -> Space-M.1.34
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee607 bot:isPartOf inst:3075413 .
+inst:3075413 a brick:Zone .
+
+#Trapperum-I.0.03 -> Space-M.1.35
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee608 bot:isPartOf inst:3075368 .
+inst:3075368 a brick:Zone .
+
+#Garderobe-I.0.04 -> Space-M.1.65
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee626 bot:isPartOf inst:3075375 .
+inst:3075375 a brick:Zone .
+
+#Toilet-I.0.05 -> Space-M.1.64
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee625 bot:isPartOf inst:3075373 .
+inst:3075373 a brick:Zone .
+
+#Toilet-I.0.06 -> Space-M.1.71
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee62c bot:isPartOf inst:3075371 .
+inst:3075371 a brick:Zone .
+
+#Toilet-I.0.07 -> Space-M.1.70
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee62b bot:isPartOf inst:3075369 .
+inst:3075369 a brick:Zone .
+
+#Forrum-I.0.16 -> Space-M.1.69
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee62a bot:isPartOf inst:3075469 .
+inst:3075469 a brick:Zone .
+
+#Forrum-I.0.17 -> Space-M.1.68
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee629 bot:isPartOf inst:3075472 .
+inst:3075472 a brick:Zone .
+
+#Toilet-I.0.18 -> Space-M.1.67
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee628 bot:isPartOf inst:3075651 .
+inst:3075651 a brick:Zone .
+
+#Toilet-I.0.19 -> Space-M.1.66
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee627 bot:isPartOf inst:3075475 .
+inst:3075475 a brick:Zone .
+
+#Base-I.0.11 -> Space-M.1.33
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee606 bot:isPartOf inst:3075401 .
+inst:3075401 a brick:Zone .
+
+#Base-I.0.12 -> Space-M.1.32
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee605 bot:isPartOf inst:3075398 .
+inst:3075398 a brick:Zone .
+
+#Fællesrum-indskoling-I.1.05 -> Space-M.1.63
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee624 bot:isPartOf inst:3075364 .
+inst:3075364 a brick:Zone .
+
+#Base-I.0.15 -> Space-M.1.31
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee604 bot:isPartOf inst:3075385 .
+inst:3075385 a brick:Zone .
+
+#Base-I.0.14 -> Space-M.1.30
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee603 bot:isPartOf inst:3075383 .
+inst:3075383 a brick:Zone .
+
+#Niche-I.0.10 -> Space-M.1.62
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee623 bot:isPartOf inst:3075378 .
+inst:3075378 a brick:Zone .
+
+#Niche-I.0.09 -> Space-M.1.61
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee622 bot:isPartOf inst:3075362 .
+inst:3075362 a brick:Zone .
+
+#Fællesrum-Mellemtrin-M.1.13 -> Space-M.1.59
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee620 bot:isPartOf inst:3075333 .
+inst:3075333 a brick:Zone .
+
+#Træ-depot-V.0.19 -> Space-M.1.58
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee61f bot:isPartOf inst:3075485 .
+inst:3075485 a brick:Zone .
+
+#Vindfang-L.0.11 har hverken simulering eller ventilation. Derfor ikke regnet med
+
+#Møde-P.0.23 -> Space-M.1.72
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee62d bot:isPartOf inst:3075488 .
+inst:3075488 a brick:Zone .
+
+#Gang-P.0.12 -> Space-M.1.73
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee62e bot:isPartOf inst:3075328 .
+inst:3075328 a brick:Zone .
+
+#Toilet-P.0.15 -> Space-M.1.44
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee611 bot:isPartOf inst:3075529 .
+inst:3075529 a brick:Zone .
+
+#Toilet-P.0.16 -> Space-M.1.45
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee612 bot:isPartOf inst:3075532 .
+inst:3075532 a brick:Zone .
+
+#Toilet-P.0.17 -> Space-M.1.46
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee613 bot:isPartOf inst:3075535 .
+inst:3075535 a brick:Zone .
+
+#Toilet-P.0.18 -> Space-M.1.49
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee616 bot:isPartOf inst:3075538 .
+inst:3075538 a brick:Zone .
+
+#H.C-toilet-P.0.19 -> Space-M.1.47
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee614 bot:isPartOf inst:3075541 .
+inst:3075541 a brick:Zone .
+
+#Kopi-P.0.20 -> Space-M.1.50
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee617 bot:isPartOf inst:3075545 .
+inst:3075545 a brick:Zone .
+
+# Har rette alt, men jeg fortsætter med at skrive rum navn ind fra revit samt data model navn 
+
+#Møde P.0.13 -> Space-M.1.48
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee615 bot:isPartOf inst:3075517 .
+inst:3075517 a brick:Zone .
+
+#Møde P.0.14 -> Space-M.1.51
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee618 bot:isPartOf inst:3075515 .
+inst:3075515 a brick:Zone .
+
+#Kontor-P.0.03 
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee61a bot:isPartOf inst:3075341
+ .
+inst:3075341 a brick:Zone .
+
+#Kontor P.0.02 -> Space-M.1.53
+inst:7ad47e34-d771-4b10-9d9c-fd6c74eefbc7-00360d32 bot:isPartOf inst:3075338 .
+inst:3075338 a brick:Zone .
+
+#Kontor P.0.04 -> Space-M.1.54
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee61b bot:isPartOf inst:3075344 .
+inst:3075344 a brick:Zone .
+
+#Kontor P.0.05 -> Space-M.1.55
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee61c bot:isPartOf inst:3075347 .
+inst:3075347 a brick:Zone .
+
+#Kontor P.0.06 -> Space-M.1.56
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee61d bot:isPartOf inst:3075350 .
+inst:3075350 a brick:Zone .
+
+#Kontor P.0.07 -> Space-M.1.57
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee61e bot:isPartOf inst:3075325 .
+inst:3075325 a brick:Zone .
+
+#1. sal
+
+#Base M.1.07 -> Space-M.1.109
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee655 bot:isPartOf inst:3075634 .
+inst:3075634 a brick:Zone .
+
+#Base M.1.08 -> Space-M.1.110
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee656 bot:isPartOf inst:3075630 .
+inst:3075630 a brick:Zone .
+
+#Base M.1.09 -> Space-M.1.111
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee657 bot:isPartOf inst:3075626 .
+inst:3075626 a brick:Zone .
+
+#Base M.1.11 -> Space-M.1.112
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee658 bot:isPartOf inst:3075623 .
+inst:3075623 a brick:Zone .
+
+#Garderobe M.1.12 -> Space-M.1.113
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee659 bot:isPartOf inst:3075616 .
+inst:3075616 a brick:Zone .
+
+#Toilet M.1.17 -> Space-M.1.99
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee64b bot:isPartOf inst:3075649 .
+inst:3075649 a brick:Zone .
+
+#Toilet M.1.18 -> Space-M.1.98
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee64a bot:isPartOf inst:3075666 .
+inst:3075666 a brick:Zone .
+
+#Forrum M.1.19 -> Space-M.1.92
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee644 bot:isPartOf inst:3075647 .
+inst:3075647 a brick:Zone .
+
+#Depot M.1.20 -> Space-M.1.93
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee645 bot:isPartOf inst:3075645 .
+inst:3075645 a brick:Zone .
+
+#HC-toilet M.1.21 -> Space-M.1.94
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee646 bot:isPartOf inst:3075643 .
+inst:3075643 a brick:Zone .
+
+#Forrum M.1.22 -> Space-M.1.95
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee647 bot:isPartOf inst:3075641 .
+inst:3075641 a brick:Zone .
+
+#Toilet M.1.23 -> Space-M.1.97
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee649 bot:isPartOf inst:3075639 .
+inst:3075639 a brick:Zone .
+
+#Toilet M.1.24 -> Space-M.1.96
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee648 bot:isPartOf inst:3075664 .
+inst:3075664 a brick:Zone .
+
+#Trapperum I.1.09 -> Space-M.1.81
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee639 bot:isPartOf inst:3075614 .
+inst:3075614 a brick:Zone .
+
+#Garderobe I.1.10 -> Space-M.1.101
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee64d bot:isPartOf inst:3075612 .
+inst:3075612 a brick:Zone .
+
+#Toilet I.1.11 -> Space-M.1.100
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee64c bot:isPartOf inst:3075637 .
+inst:3075637 a brick:Zone .
+
+#Toilet I.1.12 -> Space-M.1.107
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee653 bot:isPartOf inst:3075658 .
+inst:3075658 a brick:Zone .
+
+#Toilet I.1.13 -> Space-M.1.106
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee652 bot:isPartOf inst:3075662 .
+inst:3075662 a brick:Zone .
+
+#Forrum I.1.14 -> Space-M.1.105
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee651 bot:isPartOf inst:3075656 .
+inst:3075656 a brick:Zone .
+
+#Forrum I.1.15 -> Space-M.1.104
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee650 bot:isPartOf inst:3075654 .
+inst:3075654 a brick:Zone .
+
+#Toilet I.1.16 -> Space-M.1.103
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee64f bot:isPartOf inst:3075652 .
+inst:3075652 a brick:Zone .
+
+#Toilet I.1.17 -> Space-M.1.102
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee64e bot:isPartOf inst:3075660 .
+inst:3075660 a brick:Zone .
+
+#Base I.1.08 -> Space-M.1.79
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee637 bot:isPartOf inst:3075620 .
+inst:3075620 a brick:Zone .
+
+#Base I.1.07 -> Space-M.1.78
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee636 bot:isPartOf inst:3075618 .
+inst:3075618 a brick:Zone .
+
+#Base I.1.01 -> Space-M.1.77
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee635 bot:isPartOf inst:3075694 .
+inst:3075694 a brick:Zone .
+
+#Base I.1.02 -> Space-M.1.76
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee634 bot:isPartOf inst:3075696 .
+inst:3075696 a brick:Zone .
+
+#Niche I.1.03 -> Space-M.1.75
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee633 bot:isPartOf inst:3075698 .
+inst:3075698 a brick:Zone .
+
+#Niche I.1.04 -> Space-M.1.74
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee632 bot:isPartOf inst:3075700 .
+inst:3075700 a brick:Zone .
+
+#Toilet M.1.16 -> Space-M.1.91
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee643 bot:isPartOf inst:3075675 .
+inst:3075675 a brick:Zone .
+
+#Toilet M.1.15 -> Space-M.1.90
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee642 bot:isPartOf inst:3075677 .
+inst:3075677 a brick:Zone .
+
+#Toilet M.1.26 -> Space-M.1.87
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee63f bot:isPartOf inst:3075679 .
+inst:3075679 a brick:Zone .
+
+#Forrum M.1.14 -> Space-M.1.88
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee640 bot:isPartOf inst:3075686 .
+inst:3075686 a brick:Zone .
+
+#Space M.1.25 -> Space-M.1.89 (samme navn begge sider. findes ikke i excel ark flow endelig)
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee641 bot:isPartOf inst:3075688 .
+inst:3075688 a brick:Zone .
+
+#Niche M.1.02 -> Space-M.1.84
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee63c bot:isPartOf inst:3075706 .
+inst:3075706 a brick:Zone .
+
+#Niche M.1.03 -> Space-M.1.83
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee63b bot:isPartOf inst:3075708 .
+inst:3075708 a brick:Zone .
+
+#Base M.1.04 -> Space-M.1.85
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee63d bot:isPartOf inst:3075702 .
+inst:3075702 a brick:Zone .
+
+#Base M.1.05 -> Space-M.1.86
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee63e bot:isPartOf inst:3075704 .
+inst:3075704 a brick:Zone .
+
+#Fællesrum mellemtrin M.1.06 -> Space-M.1.82
+inst:bfd872ef-8b10-4de0-9ae0-bc51611b600e-002ee63a bot:isPartOf inst:3075672 .
+inst:3075672 a brick:Zone .
+
+
+
+} 
